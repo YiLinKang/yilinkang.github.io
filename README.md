@@ -49,5 +49,9 @@ Shanyi Xie, Xingwang Li, **Yilin Kang\***, Gang Zhou, Congcong Zhan, Xianjun Hu,
 
 **Yilin Kang**, Jian Li*, Yong Liu, Weiping Wang. ICCS 2023.
 
+**Analysis of Attack Algorithm and Defense Strategy Network Simulation Defense**
+
+Hanzhi Cai, Xianjun Hu*, **Yilin Kang**, AISNS 2024 (EI).
+
 
 Apr 11, 2022. A paper titled 'Stability and Generalization of Differentially Private Minimax Problems' was submitted to arXiv, 2022.
